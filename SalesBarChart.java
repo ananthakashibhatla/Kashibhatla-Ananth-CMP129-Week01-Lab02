@@ -1,3 +1,8 @@
+// Ananth Kashibhatla
+// CMP129
+// Week 01 Lab 02
+// 11 September 2026 
+
 package Labs.Week_1.scr;
 
 import java.util.Scanner; 
